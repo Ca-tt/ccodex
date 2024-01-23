@@ -1,1 +1,3 @@
-Coder codex - and how you might LOVE it in your everyday job
+# Code codex
+
+And how you might LOVE it in your everyday job! ♥
