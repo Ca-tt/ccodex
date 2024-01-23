@@ -1,10 +1,11 @@
 {
   "name": "ccodex",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "git push && npm publish"
+    "git": "git add . && git commit && git push",
+    "publish": "git add && git commit && git push && npm publish"
   },
   "keywords": [],
   "author": "",
